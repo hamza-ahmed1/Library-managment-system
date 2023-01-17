@@ -1,0 +1,21 @@
+S.NO  BOOKS                            AUTHOR NAME              NO OF PAGES         
+                                                                                                    
+2)  HOW TO PROGRAM C          	     Harvey Deitel and Paul Dietel  998                       
+3)  Clean Code                       Robert C.Martin                1100                      
+4)  The Art Of Computer Programming  Donald Knuth                   1258                      
+5)  Practical C Programming          Steve Oualline                 1089
+6)  Calculus Early Transcendentals   Anton Bivens Davis             1318                      
+7)  Differential Calculus            Shanti Narayan                 470                       
+8)  The Universal History Of Numbers Georges Ifrah                  1056                      
+9)  The History Of Pi                Petr Beckmann                  540                       
+10)  The Math Book                   Clifford A.Pickover            1280                      
+11)  Fundamentals Of PHYSICS         David Halliday                 1450                      
+12)  Solid State Physics             P.R.Manjunath                  276                       
+13)  Basic Physics                   Karl F.Kuhn                    956                       
+14)  The Theoritical Minimum         Leonard Susskind               687                       
+15)  The Elegant Universe            Brian Greene                   542                       
+16)  The Road To Mecca               Muhammad Asad                  380                       
+17)  Muslim Kingship                 Aziz Al-Azmeh                  296                       
+18)  Destiny Disrupted               Tamim Ansari                   548                       
+19)  The Venure Of Islam             Marshall G.S. Hodgson          724                       
+20)  Lost Islamic History            Firas Alkhateeb                593                       
